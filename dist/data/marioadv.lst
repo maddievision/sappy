@@ -1,0 +1,48 @@
+Mario Bros.
+0000 Mario Bros. - Title Theme
+0001 Mario Bros. - Game Start
+0002 Mario Bros. - Next Round Start
+0003 Mario Bros. - Round End
+0004 Mario Bros. - Game Over
+0007 Mario Bros. - Win Bonus Game
+0012 ?
+0020 SMB2 - Boss Battle
+0021 SMB2 - Invincibility
+0022 SMB - Castle Level
+0024 ?
+0025 ?
+0026 ?
+0027 ?
+0029 SMB3 - Battle
+002A ?
+003D SMB3 - Battle Intro
+0044 Intro?
+0078 ?
+0079 SMB3 - Underground Level
+007A ?
+007B Intro?
+END
+Super Mario Bros. 2
+00AA SMB2 - Main Theme
+00AB SMB2 - Aboveground Stage
+00AC SMB2 - Underground Stage
+00AD SMB2 - Subspace
+00AE SMB2 - Choose Your Character
+00AF SMB2 - Boss Battle Remix
+00B0 SMB2 - Wart
+00B1 SMB2 - Ending Fanfare?
+00B2 SMB2 - Door Opening Fanfare
+00B3 SMB2 - Game Over
+00B4 SMB2 - Mushroom Fanfare
+00B6 SMB2 - Invincibility Remix
+00B7 ?
+00B8 SMB2 - Ending Theme
+00DD ?
+00EE ?
+00EF ?
+00F3 ?
+00F4 SMB2?
+00FB ?
+0107 ?
+END
+ENDFILE

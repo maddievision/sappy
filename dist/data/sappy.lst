@@ -1,0 +1,57 @@
+****, Unsupported Game, unsupported, 0, 0, 0, 0, 0
+AGRE, ESPN Final Round Golf 2002 (U), sapphire, blank, blank, &H5C0B48, 0, 0
+AWAJ, Wario Land 4 (J), sapphire, blank, blank, &H98028, &H2d7, 0
+AGSE, Golden Sun (U), sapphire, blank, blank, &HFC684, 0, 0
+AOGJ, Super Robot Wars (J), sapphire, blank, blank, &H336330, 0, 0
+AWRE, Advance Wars (U), sapphire, advw, advw, &H143DDC, 0, 0
+ASOJ, Sonic Advance (J), sapphire, blank, blank, &H6d76b4, 0 ,0
+A2NE, Sonic Advance 2 (U), sapphire, blank, blank, &Had4f4c, 0 ,0
+AW2E, Advance Wars 2: Black Hole Rising (U), sapphire, advw, advw, &H2429CC, 0, 0
+AFEJ, Fire Emblem (J), sapphire, blank, blank, &H3994D8, 1, 0
+ABSE, Bomberman Tournament (U), sapphire, blank, blank, &H31CB00, 0, 0
+AMKE, Mario Kart: Super Circuit (U), sapphire, marokart, mksc2, &H102498, &H2, &H3C
+A2CE, Castlevania - Aria of Sorrow (U), sapphire, cv2, cv2, &H27CD38, 0, 0
+AXVE, Pokémon Ruby (U), sapphire, sapp2, sapp, &H45548C, &H15E, &H1D3
+BXVE, Pokémon Ruby (B), sapphire, sapphire2, sapp, &H45548C, &H15E, &H1D3
+AXVJ, Pokémon Ruby (J), sapphire, sapphire, sapp, &H416EE4, &H15E, &H1D2
+AXPE, Pokémon Sapphire (U), sapphire, sapphire, sapp, &H4554E8, &H15E, &H1D3
+AXPJ, Pokémon Sapphire (J), sapphire, sapphire, sapp, &H416ECC, &H15E, &H1D2
+AMAJ, Super Mario Advance (J), sapphire, marioadv, marioadv, &HF3F18, 0, 0
+AMAE, Super Mario Advance (E), sapphire, marioadv, marioadv, &HF4368, 0, 0
+AMZE, Super Mario Advance (U), sapphire, marioadv, marioadv, &HF40D4, 0, 0
+A7KE, Kirby: Nightmare in Dream Land (U), sapphire, kirby, blank, &H60B460, 0, 0
+AEPP, Sheep (E), sapphire, blank, blank, &H2083EC, 0, 0
+AFFP, Final Fight One (E), sapphire, blank, blank, &HA52F4, &H50, 0
+ATLE, Atlantis - The Lost Empire (U), sapphire, blank, blank, &H3b4f80, &H2, 0
+ASYE, Spyro - Season of Ice (U), sapphire, blank, blank, &HDB16c, &H2, 0
+ASAE, Army Men (U), sapphire, blank, blank, &H3183E0, 1, 0
+AMYE, Bomberman Max 2 Red (U), sapphire, blank, blank, &H176974, 1 ,0
+ABDE, Boulder Dash EX (U), sapphire, blank, blank, &H1436c0, &H3E, 0
+AO4E, Splinter Cell (U), sapphire, blank, blank, &Hb8058, 0, 0
+AFZJ, F-Zero Advance (J), sapphire, blank, blank, &H58324, &H0, 0
+AAUE, Pokémon Gold (U), pkmngbc, blank, blank, &HE906E, &H0, 0
+AAUJ, Pokémon Gold (J), pkmngbc, blank, blank, &HE906E, &H0, 0
+AAXE, Pokémon Silver (U), pkmngbc, blank, blank, &HE906E, &H0, 0
+AAXJ, Pokémon Silver (J), pkmngbc, blank, blank, &HE906E, &H0, 0
+BXTE, Pokémon Crystal (U), pkmngbc, blank, blank, &HE906E, &H0, 0
+BXTJ, Pokémon Crystal (J), pkmngbc, blank, blank, &HE906E, &H0, 0
+AFEÿ, Fire Emblem, error, Only the Japanese version [AFEJ] of this ROM is supported at this time., blank, 0, 0, 0
+AO4ÿ, Splinter Cell, error, Only the US version [AO4E] of this ROM is supported at this time., blank, 0, 0, 0
+AFZÿ, F-Zero Advance, error, Only the Japanese version [AFZJ] of this ROM is supported at this time., blank, 0, 0, 0
+A2Cÿ, Castlevania - Aria of Sorrow, error, Only the US version [A2Ce] of this ROM is supported at this time., blank, 0, 0, 0
+AMKÿ, Mario Kart: Super Circuit, error, Only the US version [AMKE] of this ROM is supported at this time., blank, 0, 0, 0
+AWRÿ, Advance Wars, error, Only the US version [AWRE] of this ROM is supported at this time., blank, 0, 0, 0
+AXVÿ, Pokémon Ruby, error, Only the US [AXVE] and Japanese [AXVJ] versions of this ROM are supported at this time., blank, 0, 0, 0
+AXPÿ, Pokémon Sapphire, error, Only the US [AXPE] and Japanese [AXPJ] versions of this ROM are supported at this time., blank, 0, 0, 0
+AMAÿ, Super Mario Advance, error, Only the US [AMZE] European [AMAE] and Japanese [AMAJ] versions of this rom are supported at this time., blank, 0, 0, 0
+AMZÿ, Super Mario Advance, error, Only the US [AMZE] European [AMAE] and Japanese [AMAJ] versions of this rom are supported at this time., blank, 0, 0, 0
+A7Kÿ, Kirby: Nightmare in Dream Land, error, Only the US version [A7KE] of this ROM is supported at this time., blank, 0, 0, 0
+ABSÿ, Bomberman Tournament / Bomberman Story, error, Only the US version [ABSE] of this ROM is supported at this time., blank, 0, 0, 0
+AEPÿ, Sheep, error, Only the European version [AEPP] of this ROM is supported at this time., blank, 0, 0, 0
+AFFÿ, Final Fight One, error, Only the European version [AFFP] of this ROM is supported at this time., blank, 0, 0, 0
+ATLÿ, Atlantis - The Lost Empire, error, Only the US version [ATLE] of this ROM is supported at this time., blank, 0, 0, 0
+ASYÿ, Spyro - Season of Ice, error, Only the US version [ASYE] of this ROM is supported at this time., blank, 0, 0, 0
+ASAÿ, Army Men, error, Only the US version [ASAE] of this ROM is supported at this time., blank, 0, 0, 0
+AMYÿ, Bomberman Max 2 Red, error, Only the US version [AMYE] of this ROM is supported at this time., blank, 0, 0, 0
+ABDÿ, Boulder Dash EX, error, Only the US version [ABDE] of this ROM is supported at this time., blank, 0, 0, 0
+ENDFILE

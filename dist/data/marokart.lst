@@ -1,0 +1,55 @@
+Music
+0035 Title Screen Intro
+0034 Title Screen
+0002 Menu Screen
+0003 Race Intro (Mario GP)
+0004 Race Intro (Time Trials/Quick Run)
+0005 Race Finished (1st Position)
+0006 Race Finished (2nd-4th Position)
+0007 Race Finished (5th-8th Position)
+000A Star Invicibility
+000B Lightning
+000C Ghost
+000D Double Ghost
+000E Mario GP Scores
+0010 Game Over
+000F Race Over (Quick Run)
+0011 Race Over (Time Trials)
+0012 Battle Mode
+0013 Final Lap
+0019 Theme: Circuit
+0015 Theme: Beach
+0018 Theme: Jungle
+0016 Theme: Bowser Castle
+0017 Theme: Cheese Land
+001A Theme: Sunset Wilds
+001B Theme: Spooky
+001D Theme: Yoshi Desert
+001E Theme: Ribbon Road
+001F Theme: Snow Land
+0020 Theme: Jungle 2
+0024 Theme Intro: Rainbow Road
+001C Theme: Rainbow Road
+0023 Theme: Sky Garden
+0029 Theme: Classic Mario Circuit
+002A Theme: Classic Donut Plains
+002B Theme: Classic Choco Valley
+002C Theme: Classic Vanilla Lake
+002D Theme: Classic Ghost Valley
+002E Theme: Classic Rainbow Road
+002F Theme: Classic Bowser Castle
+0030 Theme: Classic Koopa Beach
+0028 Multiplayer Link
+0025 Mobile Link
+0033 Remix of Title Screen Intro?
+0037 Trophy Intro
+0038 Trophy
+0039 Trophy Intro + Bogus Trophy
+0036 Credits
+003B Strange Trophy
+003C Unknown
+0014 Unknown
+0021 Unknown
+0022 Unknown
+END
+ENDFILE
